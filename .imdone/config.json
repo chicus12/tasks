@@ -28,5 +28,10 @@
     "pedantic": false,
     "smartLists": true,
     "langPrefix": "language-"
+  },
+  "sync": {
+    "id": "5a15c8a65eae997563008ffe",
+    "name": "chicus12/tasks",
+    "useImdoneioForPriority": true
   }
 }
